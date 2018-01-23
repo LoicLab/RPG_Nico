@@ -2,6 +2,8 @@ public class Healer extends Perso {
 
     private int heal = 30;
     private String job ="Soigneur";
+    
+    public String coucou;
 
     public Healer()
     {
